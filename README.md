@@ -262,7 +262,7 @@ Bank-Customer-Churn/
 ├── notebooks/
 │   └── bank_customer_churn.ipynb
 │
-├── data/
+├── dataset/
 │   └── bank_customer_churn.csv
 │
 ├── requirements.txt
